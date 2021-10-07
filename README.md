@@ -10,3 +10,5 @@ Tools: Python
 - Given a spreadsheet of active listings, return an individual PDF report for each listing in the spreadsheet where each page of the PDF displays a screenshot of the syndication partner site showing the listing.
 - Each page should have text to identify the listing, the partner site, and the date the screenshot was taken.
 - An alternate interaction would be to have an interface where a user could enter a property address and receive the PDF report as an output.
+
+test: Bleh....
