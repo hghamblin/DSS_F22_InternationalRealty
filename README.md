@@ -121,3 +121,4 @@ A previous developer wrote a series of Python scripts that were mostly successfu
 * Previously written Python code and supporting files (in legacy_code directory)
 * Excel file of current listing data (Listing Inventory-9Sep2021.xlsx)
 * Sample of desired PDF output (screenshot-pdf-template.pdf)
+Austin
