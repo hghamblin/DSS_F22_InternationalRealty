@@ -1,0 +1,9 @@
+1667411736265	geckodriver	INFO	Listening on 127.0.0.1:55681
+1667411744520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofiletRQpB0"
+1667411746093	Marionette	INFO	Marionette enabled
+1667411746104	Marionette	INFO	Listening on port 55691
+Read port: 55691
+WebDriver BiDi listening on ws://127.0.0.1:55682
+1667411746348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55682/devtools/browser/e00bd9ef-732d-4f34-9dc8-fff216e7f39b
+1667411761461	Marionette	INFO	Stopped listening on port 55691
