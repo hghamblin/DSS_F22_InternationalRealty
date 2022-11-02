@@ -1,8 +1,6 @@
 # DSS_F21_InternationalRealty
 
 __International Realty__
-PM: Nate Duncan and Caden Franc
-Tools: Python
 - https://www.goldengatesir.com/eng
 - https://github.com/BYUIDSS/threestory_FA21
 - When real estate agents list a property for sale the property listing is shown online on the websites of up to 29 syndication partners. 
