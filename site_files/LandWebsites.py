@@ -21,8 +21,6 @@ driver = webdriver.Firefox(
     firefox_profile=profile
 )
 
-# search_ad is what we're looking for, url is the first page (code still needs to be written for this),
-# iterator just needs a 1 passed into it on the first call.
 def landwatch_scraper(search_ad, url, curr_page, last_page):
 
     search_url = url + str(curr_page)
@@ -152,7 +150,7 @@ def land_and_farm_scraper(search_ad, url, curr_page, last_page):
 
         # base case for when all pages have been searched
         if curr_page == last_page:
-            print('No such listing on land.com')
+            print('No such listing on landandfarm.com')
             return
 
         # continues onto next page of search
@@ -160,10 +158,13 @@ def land_and_farm_scraper(search_ad, url, curr_page, last_page):
             curr_page+=1
             land_and_farm_scraper(search_ad, url, curr_page, last_page)
 
-def web_scraper(state, state_code,extra, address):
+def web_scraper(state, state_code, county, address):
+    county = county.replace(' ', '-')
+    state = state.replace(' ', '-')
+    max_page_search = 10
 
     # landwatch.com scraping
-    landwatch_url = f'https://landwatch.com/{state}-land-for-sale/{extra}/'
+    landwatch_url = f'https://landwatch.com/{state}-land-for-sale/{county}/'
 
     driver.get(landwatch_url)
     pages = driver.find_elements(By.CLASS_NAME, '_8cfc9')
@@ -171,13 +172,13 @@ def web_scraper(state, state_code,extra, address):
 
     search_url = landwatch_url + 'page-'
 
-    if int(last_page) > 10:
+    if last_page > max_page_search:
         return
     else:
         landwatch_scraper(address, search_url, 1, last_page)
 
     # land.com scraping
-    land_url = f'https://www.land.com/{extra}-{state_code}/all-land/'
+    land_url = f'https://www.land.com/{county}-{state_code}/all-land/'
 
     driver.get(land_url)
     pages = driver.find_elements(By.CLASS_NAME, '_8cfc9')
@@ -185,30 +186,34 @@ def web_scraper(state, state_code,extra, address):
 
     search_url = land_url + 'page-'
 
-    if int(last_page) > 10:
+    if last_page > max_page_search:
         return
     else:
         land_scraper(address, search_url, 1, last_page)
 
     # landandfarm.com scraping
-    landandfarm_url = f'https://www.landandfarm.com/search/{state_code}/{extra}-land-for-sale/?CurrentPage='
+    landandfarm_url = f'https://www.landandfarm.com/search/{state_code}/{county}-land-for-sale/?CurrentPage='
 
     driver.get(landandfarm_url)
-    pages = driver.find_element(By.XPATH, '/html/body/div[5]/div[5]/div[2]/div/h1/span')
-    last_page = int(pages.text[len(pages.text)-1])
+    pages = driver.find_element(By.CLASS_NAME, 'big-screen-content.text-center')
+    pages = pages.find_elements(By.TAG_NAME, 'a')
+    length = len(pages)
+    last_page = int(pages[len(pages)-1].text)
 
     search_url = landandfarm_url + 'page-'
 
-    if int(last_page) > 10:
+    if last_page > max_page_search:
         return
     else:
         land_and_farm_scraper(address, search_url, 1, last_page)
 
 
-
-
 address = ''
+address2 = 'Tbd N 1800 E, Rexburg, ID, 83440, Fremont County'
+web_scraper('idaho','ID','Fremont County', address)
+web_scraper('idaho','ID','Fremont County', address2)
 
-web_scraper('idaho','ID','rexburg', address)
+
+driver.quit()
 
 
