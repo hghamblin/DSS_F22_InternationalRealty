@@ -1,0 +1,280 @@
+1670379233213	geckodriver	INFO	Listening on 127.0.0.1:53162
+1670379238964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofileO0Tlys"
+1670379240031	Marionette	INFO	Marionette enabled
+1670379240035	Marionette	INFO	Listening on port 53177
+Read port: 53177
+WebDriver BiDi listening on ws://127.0.0.1:53163
+1670379240170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53163/devtools/browser/99fa8c59-b80c-418a-8389-c7aebdd6d053
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670379273412	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=gme-nrtllc&libraries=drawing&callback=vueGoogleMapsInit, line 95: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=gme-nrtllc&libraries=drawing&callback=vueGoogleMapsInit, line 95: Error: Could not load "marker".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=gme-nrtllc&libraries=drawing&callback=vueGoogleMapsInit, line 95: Error: Could not load "marker".
+1670379292915	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670379299680	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670379307995	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670379315189	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670379329833	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670379335245	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.juwai.com/64148563.htm, line 79: ReferenceError: Fingerprint2 is not defined
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript warning: https://static.international-property.countrylife.co.uk/sfJqueryReloadedPlugin/js/jquery.lazy.min.js, line 2: unreachable code after return statement
+JavaScript error: https://www.countrylife.co.uk/international-property/sale/united-states/nob-hill-exclusive-penthouse/1512687, line 822: ReferenceError: addthis is not defined
+1670379353527	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670379354073	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670379354113	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670379354344	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.international-property.countrylife.co.uk/sfJqueryReloadedPlugin/js/jquery.lazy.min.js, line 2: unreachable code after return statement
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+1670379449287	Marionette	INFO	Stopped listening on port 53177
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670379671762	geckodriver	INFO	Listening on 127.0.0.1:53705
+1670379677566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53706" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofileCcynWd"
+1670379678630	Marionette	INFO	Marionette enabled
+1670379678635	Marionette	INFO	Listening on port 53715
+Read port: 53715
+WebDriver BiDi listening on ws://127.0.0.1:53706
+1670379678734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53706/devtools/browser/9aafb8ca-4b4a-48b0-9c39-333a0b60fb83
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670379686197	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670379704218	Marionette	INFO	Stopped listening on port 53715
+1670379809152	geckodriver	INFO	Listening on 127.0.0.1:53929
+1670379815254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofileOws6yu"
+1670379816484	Marionette	INFO	Marionette enabled
+1670379816489	Marionette	INFO	Listening on port 53944
+WebDriver BiDi listening on ws://127.0.0.1:53930
+Read port: 53944
+1670379816741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53930/devtools/browser/6d27b9cf-0888-4c71-aced-a4518bc1709f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670379825042	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670379843203	Marionette	INFO	Stopped listening on port 53944
+1670380214691	geckodriver	INFO	Listening on 127.0.0.1:54271
+1670380221086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54272" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofileYvB690"
+1670380222432	Marionette	INFO	Marionette enabled
+1670380222439	Marionette	INFO	Listening on port 54282
+WebDriver BiDi listening on ws://127.0.0.1:54272
+Read port: 54282
+1670380222728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54272/devtools/browser/120d6be4-be1a-481b-9b4a-e8f49c036567
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670380232214	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://pages.liveby.com/liveby.js?id=sothebysrealty, line 2: ChunkLoadError: Loading chunk 1 failed.
+(error: https://pages.liveby.com/static/js/1.27e4802f.chunk.js)
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=gme-nrtllc&libraries=drawing&callback=vueGoogleMapsInit, line 95: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=gme-nrtllc&libraries=drawing&callback=vueGoogleMapsInit, line 95: Error: Could not load "marker".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=gme-nrtllc&libraries=drawing&callback=vueGoogleMapsInit, line 95: Error: Could not load "marker".
+1670380254130	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670380261021	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670380268720	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670380276190	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670380285651	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670380291577	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.juwai.com/64148563.htm, line 79: ReferenceError: Fingerprint2 is not defined
+JavaScript warning: https://static.international-property.countrylife.co.uk/sfJqueryReloadedPlugin/js/jquery.lazy.min.js, line 2: unreachable code after return statement
+JavaScript error: https://www.countrylife.co.uk/international-property/sale/united-states/nob-hill-exclusive-penthouse/1512687, line 822: ReferenceError: addthis is not defined
+1670380309142	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670380309382	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670380309940	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670380309974	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.international-property.countrylife.co.uk/sfJqueryReloadedPlugin/js/jquery.lazy.min.js, line 2: unreachable code after return statement
+1670380326475	Marionette	INFO	Stopped listening on port 54282
+1670444940402	geckodriver	INFO	Listening on 127.0.0.1:56941
+1670444946341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofileHmv2QM"
+1670444947436	Marionette	INFO	Marionette enabled
+1670444947441	Marionette	INFO	Listening on port 56952
+Read port: 56952
+WebDriver BiDi listening on ws://127.0.0.1:56942
+1670444947556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56942/devtools/browser/0b87261f-0e20-41cc-bef2-436206597de4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670444956652	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670444990832	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670444995861	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445002257	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445009325	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445023601	Marionette	INFO	Stopped listening on port 56952
+1670445113831	geckodriver	INFO	Listening on 127.0.0.1:57381
+1670445119710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofilezWIu9p"
+1670445120786	Marionette	INFO	Marionette enabled
+1670445120791	Marionette	INFO	Listening on port 57392
+WebDriver BiDi listening on ws://127.0.0.1:57382
+Read port: 57392
+1670445121064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57382/devtools/browser/cd15453c-a024-48e3-a485-1a5242577e6f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670445128840	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445147952	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445154436	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445161302	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445169231	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://maps.googleapis.com/maps/api/js?callback=_$_google_map_initialize_$_&key=AIzaSyC5Rw4lpquNDToGGS-E0jhGZ_pkwXGSHV4&libraries=places, line 105: Error: Could not load "marker".
+JavaScript error: https://maps.googleapis.com/maps/api/js?callback=_$_google_map_initialize_$_&key=AIzaSyC5Rw4lpquNDToGGS-E0jhGZ_pkwXGSHV4&libraries=places, line 105: Error: Could not load "marker".
+1670445175840	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445185860	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.juwai.com/64148563.htm, line 79: ReferenceError: Fingerprint2 is not defined
+JavaScript warning: https://static.international-property.countrylife.co.uk/sfJqueryReloadedPlugin/js/jquery.lazy.min.js, line 2: unreachable code after return statement
+JavaScript error: https://www.countrylife.co.uk/international-property/sale/united-states/nob-hill-exclusive-penthouse/1512687, line 822: ReferenceError: addthis is not defined
+1670445210838	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445211248	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445211313	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445211436	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.international-property.countrylife.co.uk/sfJqueryReloadedPlugin/js/jquery.lazy.min.js, line 2: unreachable code after return statement
+1670445231682	Marionette	INFO	Stopped listening on port 57392
+1670445595149	geckodriver	INFO	Listening on 127.0.0.1:55340
+1670445600996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofileC4Kdcs"
+1670445602041	Marionette	INFO	Marionette enabled
+1670445602046	Marionette	INFO	Listening on port 55352
+Read port: 55352
+WebDriver BiDi listening on ws://127.0.0.1:55341
+1670445602183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55341/devtools/browser/2b187b11-f40b-4423-9460-3c41457c2054
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670445612145	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://pages.liveby.com/liveby.js?id=sothebysrealty, line 2: Error: Loading CSS chunk 1 failed.
+(https://pages.liveby.com/static/css/1.a0ffd5b5.chunk.css)
+1670445631710	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445638541	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445645231	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445652434	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445662103	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445668998	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://cdn.jsdelivr.net/npm/intl-tel-input@17.0.8/build/js/intlTelInput.min.js, line 7: TypeError: window.intlTelInputGlobals.instances[b][a] is not a function
+JavaScript error: https://www.juwai.com/64148563.htm, line 79: ReferenceError: Fingerprint2 is not defined
+JavaScript warning: https://static.international-property.countrylife.co.uk/sfJqueryReloadedPlugin/js/jquery.lazy.min.js, line 2: unreachable code after return statement
+JavaScript error: https://www.countrylife.co.uk/international-property/sale/united-states/nob-hill-exclusive-penthouse/1512687, line 822: ReferenceError: addthis is not defined
+1670445687674	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.countrylife.co.uk/international-property/sale/united-states/nob-hill-exclusive-penthouse/1512687, line 1327: TypeError: grecaptcha.render is not a function
+1670445687845	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445688066	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445688112	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.international-property.countrylife.co.uk/sfJqueryReloadedPlugin/js/jquery.lazy.min.js, line 2: unreachable code after return statement
+1670445707568	Marionette	INFO	Stopped listening on port 55352
+1670445901403	geckodriver	INFO	Listening on 127.0.0.1:55940
+1670445907344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofilenhd6u3"
+1670445908557	Marionette	INFO	Marionette enabled
+1670445908562	Marionette	INFO	Listening on port 55951
+WebDriver BiDi listening on ws://127.0.0.1:55941
+Read port: 55951
+1670445908815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55941/devtools/browser/bf69e8ba-695d-492c-ac08-2a26fd9fdddb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670445919302	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670445922145	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445957668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://maps.googleapis.com/maps/api/js?callback=_$_google_map_initialize_$_&key=AIzaSyC5Rw4lpquNDToGGS-E0jhGZ_pkwXGSHV4&libraries=places, line 105: Error: Could not load "controls".
+1670445965321	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445969473	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670445989024	Marionette	INFO	Stopped listening on port 55951
+1670446410325	geckodriver	INFO	Listening on 127.0.0.1:55354
+1670446416240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofilelbSsF1"
+1670446417306	Marionette	INFO	Marionette enabled
+1670446417311	Marionette	INFO	Listening on port 55364
+Read port: 55364
+WebDriver BiDi listening on ws://127.0.0.1:55355
+1670446417412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55355/devtools/browser/068893d9-ca05-446f-80f1-80c24ef54a98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670446432496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446464629	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446472210	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446476636	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446483686	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446503342	Marionette	INFO	Stopped listening on port 55364
+1670446626926	geckodriver	INFO	Listening on 127.0.0.1:55674
+1670446632816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofilelppuKg"
+1670446633936	Marionette	INFO	Marionette enabled
+1670446633941	Marionette	INFO	Listening on port 55691
+WebDriver BiDi listening on ws://127.0.0.1:55675
+Read port: 55691
+1670446634189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55675/devtools/browser/244f1f45-8fa2-4cf5-b751-8f87f094eafb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670446645049	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670446647130	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446664042	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446670294	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446678356	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446687320	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446697372	Marionette	INFO	Stopped listening on port 55691
+1670446829013	geckodriver	INFO	Listening on 127.0.0.1:56035
+1670446834901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofileKNNcIv"
+1670446835933	Marionette	INFO	Marionette enabled
+1670446835937	Marionette	INFO	Listening on port 56047
+WebDriver BiDi listening on ws://127.0.0.1:56036
+Read port: 56047
+1670446836170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56036/devtools/browser/b2b17e0d-7f28-40b1-8954-460656a01baf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670446845033	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446874567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446881772	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446890007	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446897551	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670446907868	Marionette	INFO	Stopped listening on port 56047
+1670446979800	geckodriver	INFO	Listening on 127.0.0.1:56353
+1670446985678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hgham\\AppData\\Local\\Temp\\rust_mozprofilejVlSoR"
+1670446986723	Marionette	INFO	Marionette enabled
+1670446986728	Marionette	INFO	Listening on port 56363
+WebDriver BiDi listening on ws://127.0.0.1:56354
+Read port: 56363
+1670446986950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56354/devtools/browser/5fa281ad-ec8c-4852-85e5-f0a44c78baf5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mansionglobal.com."
+1670447014084	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://pages.liveby.com/liveby.js?id=sothebysrealty, line 2: Error: Loading CSS chunk 1 failed.
+(https://pages.liveby.com/static/css/1.a0ffd5b5.chunk.css)
+1670447033461	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670447039675	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670447046171	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670447054807	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670447068800	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670447075860	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://cdn.jsdelivr.net/npm/intl-tel-input@17.0.8/build/js/intlTelInput.min.js, line 7: TypeError: window.intlTelInputGlobals.instances[b][a] is not a function
+JavaScript error: https://www.juwai.com/64148563.htm, line 79: ReferenceError: Fingerprint2 is not defined
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript warning: https://static.international-property.countrylife.co.uk/sfJqueryReloadedPlugin/js/jquery.lazy.min.js, line 2: unreachable code after return statement
+JavaScript error: https://www.countrylife.co.uk/international-property/sale/united-states/nob-hill-exclusive-penthouse/1512687, line 822: ReferenceError: addthis is not defined
+1670447096181	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.countrylife.co.uk/international-property/sale/united-states/nob-hill-exclusive-penthouse/1512687, line 1327: TypeError: grecaptcha.render is not a function
+1670447096708	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670447096852	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670447096974	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.international-property.countrylife.co.uk/sfJqueryReloadedPlugin/js/jquery.lazy.min.js, line 2: unreachable code after return statement
+1670447112108	Marionette	INFO	Stopped listening on port 56363

@@ -11,11 +11,13 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+from time import sleep
+
 # FOR TESTING ONLY
 address = "Romazzino Porto Cervo, Sassari, Italy"
 
 # load profile
-profile_path = '../profile/'
+profile_path = 'profile/'
 profile = FirefoxProfile(profile_path)
 
 # initialize webdriver
@@ -35,17 +37,21 @@ search_bar = WebDriverWait(driver, 10).until(
 )
 search_bar.send_keys(address + Keys.ENTER)
 
+sleep(3)
+
 # get property ID
 id_xpath = "/html/body/div[1]/div/div/main/div[1]/section[4]/div/div[1]/ul/li[1]/ul/li[1]/div[2]"
 property_id = WebDriverWait(driver, 10).until(
     EC.presence_of_element_located((By.XPATH, id_xpath))
 ).text
 
+sleep(3)
+
 print(f"https://www.sothebysrealty.com/id/{property_id}")
 print(f"https://www.goldengatesir.com/id/{property_id}")
 print(f"https://www.jamesedition.com/ref/{property_id}")
 print(f"https://www.juwai.com/find-listing-by-source?source=Sothebys&source_id={property_id}")
-print(f"http://real-buzz.com/RealEstate-detail-SIR/{property_id}")
-print(f"http://countrylife.co.uk/international-property/{property_id}")
+print(f"http://www.real-buzz.com/RealEstate-detail-SIR/{property_id}")
+print(f"http://www.countrylife.co.uk/international-property/{property_id}")
 
 driver.quit()

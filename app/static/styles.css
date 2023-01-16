@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    background-color: rgb(238, 248, 255);
+}
+.h{
+    background-color: rgb(27, 25, 70);
+    display: flex;
+   justify-content: center;
+   font-size: 25px;
+   height: 100px;
+   color: gold;
+}
+.content{
+    margin-top: -15px;
+}
+/*
+/*------form--------*/
+form fieldset{
+    margin: 2rem 11rem;
+    border: 1px solid #445ba9;
+    border-radius: 10px;
+    padding: .5rem 2%;
+}
+form legend {
+    color: #445ba9;
+    margin: 0 1rem;
+    padding: 0 .5rem;
+}
+form label.top, form div{
+    display: block;
+    padding-top: 1rem;
+    color: #9c2c13;
+    font-size: .8rem;
+}
+form label.top input, form label.top select{
+    -webkit-appearance: none;
+    display: block;
+    font-size: 1rem;
+    border: solid 1px #999;
+    border-radius: 4px;
+    padding: .75rem;
+    color: #555;
+    width: 100%;
+    max-width: 20rem;
+    background-color: rgba(0,0,0,0.1);
+}
+form label.sbs{
+    display: block;
+    padding: .75rem 0;
+    color: #555;
+}
+form input.submitBtn{
+    border: none;
+    background-color: #9c2c13;
+    color: #eee;
+    border-radius: 1rem;
+    padding: .75re 1.5rem;
+    margin: 0 0 2rem 2%;
+    width: 96%;
+    max-width: 20rem;
+    height: 50px;
+    font-size: 20px;
+}
+/*--extra--*/
+form {
+    margin: 20px auto;
+    width: 420px;
+}
+.form-row {
+    padding: 5px 10px;
+}
+label {
+    display: block;
+    margin: 3px 0;
+}
+.form-row input {
+    padding: 3px 1px;
+    width: 100%;
+}
+input.currency {
+    text-align: right;
+    padding-right: 15px;
+}
+.input-group .form-control {
+    float: none;
+}
+.input-group .input-buttons {
+    position: relative;
+    z-index: 3;
+}

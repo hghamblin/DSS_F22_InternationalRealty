@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web-Scraping Tool</title>
+    <link rel="stylesheet" href="static/styles.css">
+</head>
+<body>
+    <header class="h">
+        <div class="content">
+            <h1>Property Reporting Tool</h1>
+        </div>
+    </header>
+    <main>
+        <div class="contact-box">
+            <fieldset>
+                <form action="{{url_for('scrape_from_input')}}" method = "POST">
+                    <legend>Address Info</legend>
+                    <label class="top">
+                        Street<input name="street" type="text" required> 
+                    </label>
+                    <label class="top">
+                        City<input name="city" type="text" required> 
+                    </label>
+                    <label class="top">
+                        State<input name="state" type="text" required> 
+                    </label>
+                    <label class="top">
+                        Zip-Code<input name="zip-code" type="text" required> 
+                    </label>
+                    <label class="top">
+                        Country<input name="country" type="text" required> 
+                    </label>
+                
+                    <label class="top">
+                        Enter Amount
+                        <span class="input-group-addon">$</span>
+                        <input name="price" type="text" data-type="currency" placeholder="$1,000,000.00">
+                    </label>
+                    <button type="submit">Submit</button>
+                </form>
+                    
+                <form action="{{url_for('scrape_from_excel')}}" method = "POST" enctype="multipart/form-data">
+                    <label class="low">
+                        <input type="file" name="excel_file">
+                    </label>
+                    <button type="submit">Submit</button>
+                </form>
+            </fieldset>
+        </div>
+        <footer>
+            <script src="static/project.js"></script>
+        </footer> 
+    </main>
+</body>
+</html>

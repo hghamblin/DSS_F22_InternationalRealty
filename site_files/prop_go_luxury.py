@@ -19,7 +19,7 @@ state = "California"
 country = "United States"
 
 # load profile
-profile_path = '../profile/'
+profile_path = 'profile/'
 profile = FirefoxProfile(profile_path)
 
 # initialize webdriver
